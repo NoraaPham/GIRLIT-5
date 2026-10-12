@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @GIRLIT-5
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning ....
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Phạm Huỳnh Bảo Trân (Trân Phạm)
 
-<!---
-GIRLIT-5/GIRLIT-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A **Technology & Innovation student** focusing on **Mobile Development (Android/Flutter)** and **Artificial Intelligence**.
+
+- 👀 **Interested in:** Mobile Application Development & Computer Vision.
+- 🌱 **Currently learning:** Advanced Android development, Flutter, and AI integration.
+- 🛠️ **Tech Stack:** Java, Flutter, Dart, Python, Firebase, MySQL.
+- 📫 **How to reach me:** [norahpham21@gmail.com](mailto:norahpham21@gmail.com) | [LinkedIn của bạn]
