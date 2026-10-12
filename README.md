@@ -5,4 +5,4 @@ A **Technology & Innovation student** focusing on **Mobile Development (Android/
 - 👀 **Interested in:** Mobile Application Development & Computer Vision.
 - 🌱 **Currently learning:** Advanced Android development, Flutter, and AI integration.
 - 🛠️ **Tech Stack:** Java, Flutter, Dart, Python, Firebase, MySQL.
-- 📫 **How to reach me:** [norahpham21@gmail.com](mailto:norahpham21@gmail.com) | [LinkedIn của bạn]
+- 📫 **How to reach me:** [norahpham21@gmail.com](mailto:norahpham21@gmail.com)
